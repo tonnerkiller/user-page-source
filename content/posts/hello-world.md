@@ -1,7 +1,6 @@
 ---
 title: "Hello World"
-date: 2018-01-14T17:11:32+01:00
-draft: true
+date: 2018-01-14T23:50:46+01:00
 ---
 
 >Not that we are sufficient of ourselves to think any thing as of ourselves; but our sufficiency is of God;<br/>
@@ -13,7 +12,8 @@ Hi, I am tonnerkiller: Father, homemaker, unemployed minister and since recently
 curriculum. I read a lot about how 
 documenting one's path as 
 a
-student of programming helps in progress, so I thought, why not start that? So I installed [hugo](https://gohugo.io) and [set up](https://gohugo.io/hosting-and-deployment/hosting-on-github "The tutorial I 
+student of programming helps in progress, so I thought, why not start that? So I installed [hugo](https://gohugo.io) and [set up](https://charliegriefer.github.io/posts/2016/07/29/hugo-on-github-pages/ 
+"The tutorial I 
 followed") a [github user page](https://pages.github.com) to get started. I'll try to render an account of 
 my daily progress, I might even try 
 to explain things I just learnt myself, as "teach what you learn" is a concept I find very convincing.
