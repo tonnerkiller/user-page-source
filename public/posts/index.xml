@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Diary of a Coder</title>
+    <link>https://tonnerkiller.github.io/posts/</link>
+    <description>Recent content in Posts on Diary of a Coder</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Jan 2018 23:50:46 +0100</lastBuildDate>
+    
+	<atom:link href="https://tonnerkiller.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://tonnerkiller.github.io/posts/hello-world/</link>
+      <pubDate>Sun, 14 Jan 2018 23:50:46 +0100</pubDate>
+      
+      <guid>https://tonnerkiller.github.io/posts/hello-world/</guid>
+      <description>Not that we are sufficient of ourselves to think any thing as of ourselves; but our sufficiency is of God; 2 Cor 3:5
+ Hi, I am tonnerkiller: Father, homemaker, unemployed minister and since recently a learner of coding through means of the freecodecamp.org curriculum. I read a lot about how documenting one&amp;rsquo;s path as a student of programming helps in progress, so I thought, why not start that? So I installed hugo and set up a github user page to get started.</description>
+    </item>
+    
+  </channel>
+</rss>
