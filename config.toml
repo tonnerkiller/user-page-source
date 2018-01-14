@@ -1,0 +1,57 @@
+# Site settings
+baseurl = "https://tonnerkiller.github.io/"
+themesDir = "themes"
+languageCode = "en-us"
+title = "Diary of a Coder"
+theme = "cactus"
+# Enter your tracking code to enable Google Analytics
+#googleAnalytics = ""
+# Disable comments by leaving disqusShortname empty
+#disqusShortname = "spf13"
+
+[params]
+	name = "tonnerkiller"
+	description = "Read along as I progress in web development"
+	bio = "Father -- Homemaker -- Coder"
+	# Enter optionally your twitter account
+	twitter = "tonkllr"
+	enableRSS = true
+
+	# Integrate Javascript files or stylesheets by adding the url to the external assets or by
+	# linking local files with their path relative to the static folder, e.g. "css/styles.css"
+	#customCSS = []
+	#customJS  = []
+
+	# The variables below are optionally too and can be used to
+	# translate or customize each string of the theme.
+
+	# Navigation links
+	home = ""
+	subscribe = ""
+	# Pagination links
+	olderPosts = ""
+	newerPosts = ""
+	readMore = ""
+	copyright = ""
+	# Sharing options and author information in posts
+	aboutAuthor = "Learnt pastor on a different mission..."
+	tweet = ""
+	share = ""
+	# 404 page
+	title404 = "Dead end street of a Coder"
+	subtitle404 = "Nothing to see here..."
+
+	# Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
+	iconFont = "font-awesome"
+    # The social icons can be styled differently if you use mono as font - circle, rounded, or empty
+    socialIconStyle = "circle"
+
+# Add additional social link entries underneath
+[social]
+    linkedin = "https://linkedin.com/in/benjamin-koppe-26bb29153"
+    twitter  = "https://www.twitter.com/tonkllr"
+    #facebook = "https://www.facebook.com/"
+    github   = "https://www.github.com/tonnerkiller"
+    #dribble  = "https://www.dribbble.com/"
+    free-code-camp = "https://freecodecamp.org/tonnerkiller"
+    codepen = "http://codepen.io/tonnerkiller"
