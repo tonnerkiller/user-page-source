@@ -24,5 +24,6 @@ Social Buttons dynamically, and the html/css part also needs some work to make i
 
 This makes me dive into jQuery/AJAX a bit deeper, which is a good thing I presume, as learning is what is my overall intention in all this.
 
-So be my guest on the path I'm taking, read along as I evolve, as I get stuck every now and then and as I grow finding my way out of the one way roads I'm heading. Might be an interesting journey. I, for 
+So be my guest on the path I'm taking, read along as I evolve, as I get stuck every now and then and as I grow finding my way out of the dead end streets along the way. Might be an interesting journey. I, 
+for 
 my part, am excited. :)
