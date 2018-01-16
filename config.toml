@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://tonnerkiller.de/"
+baseurl = "http://tonnerkiller.de/"
 themesDir = "themes"
 languageCode = "en-us"
 title = "Diary of a Coder"
