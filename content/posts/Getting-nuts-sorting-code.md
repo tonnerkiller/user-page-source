@@ -17,7 +17,7 @@ Like what I learned tonight. Man that took a while to even understand what the p
 
 Let me start with a snippet of code:
 
-```Javascript
+```javascript
 $("document").ready(function(){
   getQuote(apiArray,quoteSingleton);
   $("#tweetbutton").on('click',function(){
@@ -39,7 +39,7 @@ So my idea was to clean up the code a bit, because I intended to add keyboard co
 
 I wanted to get the callback functions seperate and call them by name like so:
 
-```Javascript
+```javascript
 function tweet(quoteObject){
                   window.open("https://twitter.com/intent/tweet?hashtags=quotes&related=freecodecamp"+encodeURIComponent(", author of quotes app challange")+quoteObject.twitter+encodeURIComponent(", author of API used")+",tonkllr"+encodeURIComponent(", author of Quotes Machine App")+"&text="+quoteObject.getText()+" - "+quoteObject.getAuthor())
                 };
@@ -65,7 +65,7 @@ Anyway, rearranging my code like this broke the whole thing. The functions just 
 
 The problem is, this is not how you call the callback functions. I tried moving the functions from before to below the document.ready part, but this didn't help. Reading the jQuery documentation did help, though I needed a bit to find the right section on the right page. Look [here](https://api.jquery.com/on/) in the chapter "Passing data to the handle", or read on and see how my code looks like now:
 
-```Javascript
+```javascript
 function hubshare(quoteObject){
                   //get hub and channel name
                   var fullchannel=document.getElementById("channel").value.split("@");
